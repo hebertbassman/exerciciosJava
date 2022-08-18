@@ -24,7 +24,7 @@ public class exercicio08 {
 			imposto = (salario - 4500.00) * 28 / 100 + 1500.00 * 18 / 100 + 1000.00 * 8 / 100;
 		}
 
-		System.out.printf("Valor do imposto: %.2f%n", imposto);
+		System.out.printf("Valor do imposto: R$ %.2f%n", imposto);
 
 		sc.close();
 	}
