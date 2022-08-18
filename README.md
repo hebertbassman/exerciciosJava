@@ -1,5 +1,5 @@
 Curso Java Completo
-http://educandoweb.com.br
+https://www.udemy.com/course/java-curso-completo/
 Prof. Dr. Nelio Alves
 
 Capítulo: Apresentação da linguagem Java e tópicos básicos. 
