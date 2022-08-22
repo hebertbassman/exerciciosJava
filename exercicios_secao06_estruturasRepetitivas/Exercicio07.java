@@ -18,7 +18,7 @@ public class Exercicio07 {
 
 			int x = sc.nextInt();
 			int y = sc.nextInt();
-			if (x == 0 || y == 0) {
+			if (y == 0) {
 				System.out.println("Divisão impossível!");
 			} 
 			else {
