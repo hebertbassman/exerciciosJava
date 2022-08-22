@@ -26,7 +26,6 @@ public class Exercicio07 {
 				System.out.printf("%.1f%n", result);
 			}
 		}
-
 		sc.close();
 	}
 }
