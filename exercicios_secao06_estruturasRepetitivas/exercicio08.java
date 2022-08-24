@@ -6,7 +6,7 @@ package exercicios_secao06_estruturasRepetitivas;
 
 import java.util.Scanner;
 
-public class exercicio08 {
+public class Exercicio08 {
 
 	public static void main(String[] args) {
 
